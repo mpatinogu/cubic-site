@@ -10,8 +10,8 @@
 
 body{
     margin: 0px;
-    background: url(../img/FONDO-01.png) center center/cover no-repeat #FFFFFF;
-    background-attachment: fixed;
+    /*background: url(../img/FONDO-01.png) center center/cover no-repeat #FFFFFF;
+    background-attachment: fixed;*/
 }
 
 footer {
