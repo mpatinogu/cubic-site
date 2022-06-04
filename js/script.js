@@ -11,7 +11,10 @@ var span = document.getElementsByClassName("close")[0];
 var btn1 = document.getElementById("myBtn1");
 var btn2 = document.getElementById("myBtn2");
 var btn3 = document.getElementById("myBtn3");
-
+var btnBuy = document.getElementById("buyBtn");
+if(getCookie('magic') == 'a4c6af0cb6f02dff01ba174e4cf11f24f73d9ed16ca7a1e3c9d831c0139faa5c') {
+    btnBuy.style.display = "block"
+}
 // When the user clicks on the button, open the modal
 
 var myBtnDiscord1 = document.getElementById("myBtnDiscord1");
@@ -47,6 +50,11 @@ btn3.onclick = function() {
   modal.style.display = "block";
 }
 
+btnBuy.onclick = function() {
+    let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,
+width=600,height=800,left=100,top=100`;
+    window.open('https://buy.stripe.com/4gw2b5fBOehU88w3ce', 'Pay window', params);
+  }
 
 
 //When the user clicks on <span> (x), close the modal
@@ -175,6 +183,21 @@ function workBefore() {
         _id('works').src = 'img/Obra_3.jpeg'
     }
 }
+function getCookie(cname) {
+    let name = cname + "=";
+    let decodedCookie = decodeURIComponent(document.cookie);
+    let ca = decodedCookie.split(';');
+    for(let i = 0; i <ca.length; i++) {
+      let c = ca[i];
+      while (c.charAt(0) == ' ') {
+        c = c.substring(1);
+      }
+      if (c.indexOf(name) == 0) {
+        return c.substring(name.length, c.length);
+      }
+    }
+    return "";
+  }
 
 //_id('element1').style.backgroundColor = '#ABB2B9';
 //_id('element2').style.backgroundColor = '#000000';
