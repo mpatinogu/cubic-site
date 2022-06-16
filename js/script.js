@@ -23,15 +23,15 @@ var myBtnDiscord3 = document.getElementById("myBtnDiscord3");
 
 
 myBtnDiscord1.onclick = function() {
-  window.open("https://discord.gg/cubic");
+  window.open("https://discord.gg/VEbyEQusYD");
 }
 
 myBtnDiscord2.onclick = function() {
-  window.open("https://discord.gg/cubic");
+  window.open("https://discord.gg/VEbyEQusYD");
 }
 
 myBtnDiscord3.onclick = function() {
-  window.open(" https://discord.gg/cubic");
+  window.open(" https://discord.gg/VEbyEQusYD");
 }
 
 btn1.onclick = function() {
