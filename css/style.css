@@ -68,6 +68,14 @@ footer {
   background-attachment: fixed;*/
 }
 
+.gray_back {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #DEDEDE;
+  /*background: url(../img/FONDO-01.png) center center/cover no-repeat #FFFFFF;
+  background-attachment: fixed;*/
+}
+
 .nav-item {
   margin: 3px;
 }
