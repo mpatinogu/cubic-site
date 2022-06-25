@@ -15,7 +15,9 @@ if(getCookie('magic') == 'a4c6af0cb6f02dff01ba174e4cf11f24f73d9ed16ca7a1e3c9d831
 }
 // When the user clicks on the button, open the modal
 
-
+$(function(){
+  $('.selectpicker').selectpicker();
+});
 
 
 function openWindow(option) {
@@ -47,7 +49,21 @@ function hideModal() {
   modal.style.display = "none";
 }
 
-
+function getCookie(cname) {
+  let name = cname + "=";
+  let decodedCookie = decodeURIComponent(document.cookie);
+  let ca = decodedCookie.split(';');
+  for(let i = 0; i <ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) == ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) == 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
 
 
 

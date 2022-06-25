@@ -1,0 +1,18 @@
+<svg id="icn_language" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_39" data-name="Elipse 39" cx="12" cy="12" r="12" transform="translate(1801 7)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_1" data-name="Enmascarar grupo 1" transform="translate(-1801 -7)" clip-path="url(#clip-path)">
+    <g id="mexico" transform="translate(1801 7)">
+      <circle id="Elipse_40" data-name="Elipse 40" cx="12" cy="12" r="12" fill="#f0f0f0"/>
+      <path id="Trazado_275" data-name="Trazado 275" d="M31.174,12.5A12,12,0,0,0,24.391,1.687V23.305A12,12,0,0,0,31.174,12.5Z" transform="translate(-7.174 -0.496)" fill="#d80027"/>
+      <g id="Grupo_399" data-name="Grupo 399" transform="translate(0 1.191)">
+        <path id="Trazado_276" data-name="Trazado 276" d="M0,12.5A12,12,0,0,0,6.783,23.305V1.687A12,12,0,0,0,0,12.5Z" transform="translate(0 -1.687)" fill="#6da544"/>
+        <path id="Trazado_277" data-name="Trazado 277" d="M12.565,16.565a3.13,3.13,0,1,0,6.261,0V15.522H12.565Z" transform="translate(-3.696 -5.756)" fill="#6da544"/>
+      </g>
+      <path id="Trazado_278" data-name="Trazado 278" d="M19.435,13.609H16.3a1.043,1.043,0,1,0-2.087,0h-3.13a1.074,1.074,0,0,0,1.078,1.043H12.13A1.043,1.043,0,0,0,13.174,15.7a1.043,1.043,0,0,0,1.043,1.043H16.3A1.043,1.043,0,0,0,17.348,15.7a1.043,1.043,0,0,0,1.043-1.043h-.035A1.074,1.074,0,0,0,19.435,13.609Z" transform="translate(-3.261 -3.696)" fill="#ff9811"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg id="icn_language_english" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Elipse_76" data-name="Elipse 76" cx="12" cy="12" r="12" transform="translate(2417 1545)" fill="#e58585"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_2" data-name="Enmascarar grupo 2" transform="translate(-2417 -1545)" clip-path="url(#clip-path)">
+    <g id="united-states-of-america" transform="translate(2417 1545)">
+      <circle id="Elipse_77" data-name="Elipse 77" cx="12" cy="12" r="12" fill="#f0f0f0"/>
+      <g id="Grupo_4862" data-name="Grupo 4862">
+        <path id="Trazado_6959" data-name="Trazado 6959" d="M11.478,12H24a12.013,12.013,0,0,0-.413-3.13H11.478Z" fill="#d80027"/>
+        <path id="Trazado_6960" data-name="Trazado 6960" d="M11.478,5.739h10.76a12.063,12.063,0,0,0-2.769-3.13H11.478Z" fill="#d80027"/>
+        <path id="Trazado_6961" data-name="Trazado 6961" d="M12,24a11.949,11.949,0,0,0,7.47-2.609H4.53A11.949,11.949,0,0,0,12,24Z" fill="#d80027"/>
+        <path id="Trazado_6962" data-name="Trazado 6962" d="M1.761,18.261H22.239a11.928,11.928,0,0,0,1.348-3.13H.413A11.928,11.928,0,0,0,1.761,18.261Z" fill="#d80027"/>
+      </g>
+      <path id="Trazado_6963" data-name="Trazado 6963" d="M5.559,1.874H6.652l-1.017.739.389,1.2L5.006,3.07l-1.017.739.336-1.033A12.066,12.066,0,0,0,2,5.37h.35L1.7,5.84q-.151.252-.29.513l.309.952-.577-.419q-.215.456-.392.932l.341,1.049H2.348L1.331,9.6l.389,1.2L.7,10.061.093,10.5A12.116,12.116,0,0,0,0,12H12V0A11.943,11.943,0,0,0,5.559,1.874ZM6.024,10.8l-1.017-.739L3.989,10.8l.389-1.2L3.361,8.865H4.618l.389-1.2.388,1.2H6.652L5.635,9.6ZM5.635,6.109l.389,1.2L5.006,6.565,3.989,7.3l.389-1.2L3.361,5.37H4.618l.389-1.2.389,1.2H6.652ZM10.328,10.8l-1.017-.739L8.294,10.8l.389-1.2L7.665,8.865H8.922l.388-1.2.389,1.2h1.257L9.939,9.6ZM9.939,6.109l.389,1.2L9.311,6.565,8.294,7.3l.389-1.2L7.665,5.37H8.922l.388-1.2L9.7,5.37h1.257Zm0-3.5.389,1.2L9.311,3.07l-1.017.739.389-1.2L7.665,1.874H8.922l.388-1.2.389,1.2h1.257Z" fill="#0052b4"/>
+    </g>
+  </g>
+</svg>
