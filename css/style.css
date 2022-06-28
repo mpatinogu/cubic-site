@@ -155,6 +155,23 @@ footer {
     margin-bottom: 15px;
 }
 
+.container_text_title_sp{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: initial;
+  margin-bottom: 15px;
+}
+
+.container_text_title_sp_white {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  line-height: initial;
+  color: white;
+  margin-bottom: 15px;
+}
+
 .container_text_title2_white {
     font-family: 'Nouvelle Vague', sans-serif;
     font-size: 55px;
