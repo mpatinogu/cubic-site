@@ -25,7 +25,7 @@ function openWindow(option) {
         case 1:
             let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,
     width=600,height=800,left=100,top=100`;
-            window.open('https://buy.stripe.com/5kA17189m2zcgF2dQT', 'Pay window');
+            window.open('https://buy.stripe.com/4gw2b5fBOehU88w3ce', 'Pay window');
             break;
         case 2:
             window.open('https://opensea.io/collection/andywarholcubes', 'Pay window');
