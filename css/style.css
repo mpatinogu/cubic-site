@@ -197,6 +197,8 @@ footer {
 
 
 .button_apply {
+    width: 125px;
+    font-size: 13px;
     background-color: lime;
     border: 0;
     font-family: 'Montserrat';

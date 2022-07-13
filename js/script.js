@@ -5,9 +5,6 @@ var btn = document.getElementById("myBtn");
 // Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
 
-//var btn = document.getElementById("myBtn");
-//var myBtnDiscord = document.getElementById("myBtnDiscord");
-
 
 var btnBuy = document.getElementById("buyBtn");
 if(getCookie('magic') == 'a4c6af0cb6f02dff01ba174e4cf11f24f73d9ed16ca7a1e3c9d831c0139faa5c') {
@@ -35,13 +32,6 @@ function openWindow(option) {
             break;
     }
   }
-
-/*btnBuy.onclick = function() {
-    let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,
-width=600,height=800,left=100,top=100`;
-    window.open('https://buy.stripe.com/4gw2b5fBOehU88w3ce', 'Pay window', params);
-  }*/
-
 
 //When the user clicks on <span> (x), close the modal
 function hideModal() {
