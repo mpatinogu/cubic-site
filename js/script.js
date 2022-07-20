@@ -12,9 +12,6 @@ if(getCookie('magic') == 'a4c6af0cb6f02dff01ba174e4cf11f24f73d9ed16ca7a1e3c9d831
 }
 // When the user clicks on the button, open the modal
 
-$(function(){
-  $('.selectpicker').selectpicker();
-});
 
 
 function openWindow(option) {
@@ -25,7 +22,7 @@ function openWindow(option) {
             window.open('https://buy.stripe.com/4gw2b5fBOehU88w3ce', 'Pay window');
             break;
         case 2:
-            window.open('https://opensea.io/collection/andywarholcubes', 'Pay window');
+            window.open('https://opensea.io/collection/iownawarhol', 'Pay window');
             break;
         case 3:
             window.open(" https://discord.gg/VEbyEQusYD");
