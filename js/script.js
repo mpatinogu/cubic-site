@@ -10,8 +10,6 @@ var btnBuy = document.getElementById("buyBtn");
 if(getCookie('magic') == 'a4c6af0cb6f02dff01ba174e4cf11f24f73d9ed16ca7a1e3c9d831c0139faa5c') {
     btnBuy.style.display = "block"
 }
-// When the user clicks on the button, open the modal
-
 
 
 function openWindow(option) {
@@ -25,7 +23,10 @@ function openWindow(option) {
             window.open('https://opensea.io/collection/iownawarhol', 'Pay window');
             break;
         case 3:
-            window.open(" https://discord.gg/VEbyEQusYD");
+            window.open("https://discord.gg/VEbyEQusYD");
+            break;
+        case 4:
+            modal.style.display = "block";
             break;
     }
   }
@@ -51,8 +52,3 @@ function getCookie(cname) {
   }
   return "";
 }
-
-
-
-
-
