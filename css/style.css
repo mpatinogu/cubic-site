@@ -473,8 +473,8 @@ ol.listworkNumber li {counter-increment: li}
 .container-text4-teamR {
     width: 100%;
     font-family: 'Montserrat', sans-serif;
-    font-size: 1rem;
-    font-weight: 500;
+    font-size: 20px;
+    font-weight: 700;
     text-align: right;
 }
 
